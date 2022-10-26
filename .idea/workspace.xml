@@ -4,11 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dbb3ba9-df13-4e57-9290-5af487035e2c" name="Changes" comment="" />
+    <list default="true" id="2dbb3ba9-df13-4e57-9290-5af487035e2c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BalancedBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TruncateAInFirst2Positions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TruncateAInFirst2Positions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in28minutes/data/api/TodoBusinessImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in28minutes/data/api/TodoBusinessImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in28minutes/data/api/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in28minutes/data/api/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BalancedBracketsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BalancedBracketsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MissingNumberPerformanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MissingNumberPerformanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MissingNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MissingNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ParameterizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ParameterizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TruncateAInFirst2PositionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TruncateAInFirst2PositionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/in28minutes/data/api/TodoBusinessImplMockitoInjectMocksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/in28minutes/data/api/TodoBusinessImplMockitoInjectMocksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/in28minutes/data/api/TodoServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/in28minutes/data/api/TodoServiceStub.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GPM4xAvemcNuFtX92LxYacLhfT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +50,71 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/netbo/IdeaProjects/starglApp",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.MissingNumberPerformanceTest">
+    <configuration name="BalancedBracketsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitMockitoCourse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BalancedBracketsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumberPerformanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitMockitoCourse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MissingNumberPerformanceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitMockitoCourse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MissingNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitMockitoCourse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParameterizedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterizedTest.testBalancedBrackets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitMockitoCourse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParameterizedTest" />
+      <option name="METHOD_NAME" value="testBalancedBrackets" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MissingNumberPerformanceTest" />
+        <item itemvalue="JUnit.MissingNumberTest" />
+        <item itemvalue="JUnit.ParameterizedTest" />
+        <item itemvalue="JUnit.ParameterizedTest.testBalancedBrackets" />
+        <item itemvalue="JUnit.BalancedBracketsTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
